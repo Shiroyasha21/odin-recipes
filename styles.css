@@ -1,0 +1,29 @@
+/*main page style */
+
+.page-img {
+    height: auto;
+    width: 650px;
+    margin-left: 13%;
+}
+
+h3 {
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 23px;
+}
+
+.heading{
+    color: coral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+/* recipes */
+
+.title {
+    color: darkorange;
+    text-align: center;
+    
+}
+
