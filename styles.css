@@ -1,29 +1,43 @@
 /*main page style */
 
-.page-img {
+#page-img {
     height: auto;
     width: 650px;
     margin-left: 13%;
 }
 
-h3 {
+.recipes {
     color: brown;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
     font-size: 23px;
 }
 
-.heading{
+.heading {
     color: coral;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
 
-/* recipes */
-
 .title {
-    color: darkorange;
+    color: cornflowerblue;
+    font-weight: bold;
     text-align: center;
-    
 }
 
+.ingr, .steps{
+    color:darkseagreen;
+    font-size: 24px;
+}
+
+p {
+    font-weight: bolder;
+    font-size: 17px;
+    text-align: justify;
+}
+
+img {
+    width: auto;
+    height: 300px;
+    margin-left: 33%;
+}
